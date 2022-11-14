@@ -4,9 +4,9 @@
   <string name="title_activity_main">photo-gallery</string>
   <string name="package_name">io.ionic.starter</string>
   <string name="custom_url_scheme">io.ionic.starter</string>
-  <string name="ionic_app_id">    --app-id="YOUR_APP_ID" \</string>
-  <string name="ionic_channel_name">"YOUR_CHANNEL_NAME"</string>
-  <string name="ionic_update_method">auto</string>
+  <string name="ionic_app_id">0a9ed028</string>
+  <string name="ionic_channel_name">Production</string>
+  <string name="ionic_update_method">background</string>
   <string name="ionic_max_versions">2</string>
   <string name="ionic_min_background_duration">30</string>
   <string name="ionic_update_api">https://api.ionicjs.com</string>
